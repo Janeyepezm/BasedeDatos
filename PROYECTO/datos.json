@@ -1,0 +1,504 @@
+{
+    "Trabajadores": [
+        {
+            "Nombre": "Moises Jimenez",
+            "Cargo": "Recepcionista",
+            "Salario": "3000"
+        },
+        {
+            "Nombre": "Monica",
+            "Cargo": "Recepcionista",
+            "Salario": "2800"
+        },
+        {
+            "Nombre": "Cecilia Rosas",
+            "Cargo": "Recepcionista",
+            "Salario": "2800"
+        },
+        {
+            "Nombre": "Karen Cornejo",
+            "Cargo": "Mesero",
+            "Salario": "2800"
+        },
+        {
+            "Nombre": "Moises Cruz",
+            "Cargo": "Mesero",
+            "Salario": "2800"
+        },
+        {
+            "Nombre": "Leticia Garcia",
+            "Cargo": "Cocina",
+            "Salario": "2850"
+        },
+        {
+            "Nombre": "Guadalupe Paramo",
+            "Cargo": "Cocina",
+            "Salario": "2850"
+        },
+        {
+            "Nombre": "Luis Gracia",
+            "Cargo": "Repartidor",
+            "Salario": "2900"
+        },
+        {
+            "Nombre": "Angelica Chavez",
+            "Cargo": "Mesera",
+            "Salario": 2800.0
+        }
+    ],
+    "Productos": [
+        {
+            "Nombre": "Green Goddess",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Tomate Tropical",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Dorado Brillante",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Purple Corn",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Pumpkin Spice",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Blue Lagoon",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Blackout Burger",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Sol de Oro",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Beet It",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Naranja Loca",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Purple Reign",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Pink Remolachada",
+            "Categor\u00eda": "Hamburguesa",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Alitas 6pz",
+            "Categor\u00eda": "Snack",
+            "Precio": "$95"
+        },
+        {
+            "Nombre": "Alitas 12pz",
+            "Categor\u00eda": "Snack",
+            "Precio": "$180"
+        },
+        {
+            "Nombre": "Boneless 12pz",
+            "Categor\u00eda": "Snack",
+            "Precio": "$190"
+        },
+        {
+            "Nombre": "Boneless 6pz",
+            "Categor\u00eda": "Snack",
+            "Precio": "$105"
+        },
+        {
+            "Nombre": "Orden de papas",
+            "Categor\u00eda": "Snack",
+            "Precio": "$49"
+        },
+        {
+            "Nombre": "Pollipapas",
+            "Categor\u00eda": "Snack",
+            "Precio": "$150"
+        },
+        {
+            "Nombre": "Aros de cebolla",
+            "Categor\u00eda": "Snack",
+            "Precio": "$55"
+        },
+        {
+            "Nombre": "Dedos de queso",
+            "Categor\u00eda": "Snack",
+            "Precio": "$59"
+        },
+        {
+            "Nombre": "Coca cola",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$25"
+        },
+        {
+            "Nombre": "Pepsi",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$23"
+        },
+        {
+            "Nombre": "Manzanita",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$18"
+        },
+        {
+            "Nombre": "Mirinda",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$18"
+        },
+        {
+            "Nombre": "7up",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$20"
+        },
+        {
+            "Nombre": "Jugo boing",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$23"
+        },
+        {
+            "Nombre": "Jarras agua",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$60"
+        },
+        {
+            "Nombre": "Jarras limonada",
+            "Categor\u00eda": "Refresco",
+            "Precio": "$120"
+        },
+        {
+            "Nombre": "Americano",
+            "Categor\u00eda": "Caf\u00e9",
+            "Precio": "$29"
+        },
+        {
+            "Nombre": "Cappuccino sencillo",
+            "Categor\u00eda": "Caf\u00e9",
+            "Precio": "$55"
+        },
+        {
+            "Nombre": "Cappuccino con sabor",
+            "Categor\u00eda": "Caf\u00e9",
+            "Precio": "$65"
+        },
+        {
+            "Nombre": "Frappe",
+            "Categor\u00eda": "Caf\u00e9",
+            "Precio": "$85"
+        },
+        {
+            "Nombre": "Moka",
+            "Categor\u00eda": "Caf\u00e9",
+            "Precio": "$60"
+        },
+        {
+            "Nombre": "Limonada",
+            "Categor\u00eda": "Bebidas fr\u00edas",
+            "Precio": "$45"
+        },
+        {
+            "Nombre": "Naranjada",
+            "Categor\u00eda": "Bebidas fr\u00edas",
+            "Precio": "$45"
+        },
+        {
+            "Nombre": "Pi\u00f1a colada",
+            "Categor\u00eda": "Bebidas fr\u00edas",
+            "Precio": "$55"
+        },
+        {
+            "Nombre": "Smoothie",
+            "Categor\u00eda": "Bebidas fr\u00edas",
+            "Precio": "$55"
+        },
+        {
+            "Nombre": "Smoothie Frutos Rojos",
+            "Categor\u00eda": "Bebidas fr\u00edas",
+            "Precio": "$59"
+        },
+        {
+            "Nombre": "Zuba",
+            "Categor\u00eda": "Refrescos",
+            "Precio": "$15"
+        }
+    ],
+    "Consumo": [],
+    "Proveedores": [
+        {
+            "Nombre": "Enrique",
+            "Producto": "Carne",
+            "Tel\u00e9fono": "4568295589"
+        }
+    ],
+    "Clientes": [
+        {
+            "Nombre": "Juana",
+            "Domicilio": "Obregon",
+            "Tel\u00e9fono": "4561825957",
+            "Referencia": "Casa color cafe",
+            "Producto": "Green Goddess"
+        }
+    ],
+    "Ventas": [
+        {
+            "Fecha": "2024-12-02",
+            "Mesa/Domicilio": "Mesa",
+            "Producto": "Purple Corn",
+            "Cantidad Vendida": 9,
+            "Precio Total": "$95$95$95$95$95$95$95$95$95"
+        },
+        {
+            "Fecha": "2024-12-02",
+            "Mesa/Domicilio": "Domicilio",
+            "Producto": "Purple Corn",
+            "Cantidad Vendida": 2,
+            "Precio Total": "$95$95"
+        },
+        {
+            "Fecha": "2024-12-02",
+            "Mesa/Domicilio": "Mesa",
+            "Producto": "Dorado Brillante",
+            "Cantidad Vendida": 2,
+            "Precio Total": "$95$95"
+        },
+        {
+            "Fecha": "2024-12-02",
+            "Mesa/Domicilio": "Mesa",
+            "Producto": "Blue Lagoon",
+            "Cantidad Vendida": 2,
+            "Precio Total": "$95$95"
+        },
+        {
+            "Fecha": "2024-12-03",
+            "Mesa/Domicilio": "Mesa",
+            "Producto": "Sol de Oro",
+            "Cantidad Vendida": 2,
+            "Precio Total": "$95$95"
+        },
+        {
+            "Fecha": "2024-12-03",
+            "Mesa/Domicilio": "Mesa",
+            "Producto": "Dorado Brillante",
+            "Cantidad Vendida": 2,
+            "Precio Total": "$95$95"
+        }
+    ],
+    "Inventario": [
+        {
+            "Producto": "Green Goddess",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Tomate Tropical",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Dorado Brillante",
+            "Cantidad Existente": 96,
+            "Cantidad Salida": 4
+        },
+        {
+            "Producto": "Purple Corn",
+            "Cantidad Existente": 89,
+            "Cantidad Salida": 11
+        },
+        {
+            "Producto": "Pumpkin Spice",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Blue Lagoon",
+            "Cantidad Existente": 98,
+            "Cantidad Salida": 2
+        },
+        {
+            "Producto": "Blackout Burger",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Sol de Oro",
+            "Cantidad Existente": 98,
+            "Cantidad Salida": 2
+        },
+        {
+            "Producto": "Beet It",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Naranja Loca",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Purple Reign",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Pink Remolachada",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Alitas 6pz",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Alitas 12pz",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Boneless 12pz",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Boneless 6pz",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Orden de papas",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Pollipapas",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Aros de cebolla",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Dedos de queso",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Coca cola",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Pepsi",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Manzanita",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Mirinda",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "7up",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Jugo boing",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Jarras agua",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Jarras limonada",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Americano",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Cappuccino sencillo",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Cappuccino con sabor",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Frappe",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Moka",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Limonada",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Naranjada",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Pi\u00f1a colada",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Smoothie",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Smoothie Frutos Rojos",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        },
+        {
+            "Producto": "Zuba",
+            "Cantidad Existente": 100,
+            "Cantidad Salida": 0
+        }
+    ]
+}
